@@ -1,17 +1,5 @@
 # Reto tecnico - coordinadora
 
-Automatización completa para el **Reto Técnico de Coordinadora**, incluyendo:
-
-* Pruebas funcionales de API con **Playwright**
-* Implementación del **Screenplay Pattern**
-* Escenarios BDD en **Gherkin**
-* Pruebas de carga y estrés con **k6**
-* Casos de prueba manuales
-* Estructura lista para producción y despliegue en GitHub
-
-Este documento describe en detalle el proyecto, las tecnologías utilizadas, la configuración y los pasos necesarios para ejecutar todo el entorno.
-
----
 
 # 1. Descripción del Proyecto
 
