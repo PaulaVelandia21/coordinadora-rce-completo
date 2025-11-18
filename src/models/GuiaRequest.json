@@ -1,0 +1,28 @@
+{
+  "identificacion": "890904713",
+  "divisionCliente": "00",
+  "idProceso": 100001,
+  "codigoPais": 170,
+  "detalle": [
+    {
+      "pesoReal": 1,
+      "largo": 5,
+      "ancho": 5,
+      "alto": 3,
+      "unidades": 1
+    }
+  ],
+  "datosRemitente": {
+    "nombreRemitente": "Remitente Test",
+    "direccionRemitente": "Calle 1",
+    "codigoCiudadRemitente": "76001000"
+  },
+  "datosDestinatario": {
+    "nombreDestinatario": "Dest Test",
+    "direccionDestinatario": "Calle 2",
+    "codigoCiudadDestinatario": "76001000"
+  },
+  "valorRecaudar": "10000",
+  "referenciaRecaudo": "ref base",
+  "tipoGuia": 1
+}
